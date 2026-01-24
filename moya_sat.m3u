@@ -31,5 +31,7 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaQuran.sa@SD",Iqraa Quran (1080p)
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:6,
+https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_480p/dvr_v_p923_84141000.ts?token=7WQMExvs7WkL2Yvx5zxOkEWuP_jC2vlTrQ6oV9Yngk4&token_path=/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_480p&expires=1759046802
 
 
