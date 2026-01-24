@@ -11,6 +11,8 @@ https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
 http://69.64.57.208/france5/mono.m3u8
 #EXTINF:-1 tvg-id="M6.fr@SD",M6 [Geo-blocked]
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 tvg-id="Al Aoula MA" tvg-name="Al Aoula MA" tvg-logo="https://raw.githubusercontent.com/3nakib/IPTV/master/icons/AlAoula.ma.png" group-title="Maroc",Al Aoula MA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma@Plus1",2M Monde +1 (1080p)
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-id="AlMaghribia.ma@SD",Al Maghribia
