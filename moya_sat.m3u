@@ -31,3 +31,11 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaQuran.sa@SD",Iqraa Quran (1080p)
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",AL AOULA LAÂYOUNE الأولى
+https://oppomu.serv00.net/maroo65/malaayoune.php?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",AL AOULA INT الأولى
+https://xddrts.alwaysdata.net/maroo65/maaloula.php?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRYADIA الرياضية
+https://oppomu.serv00.net/maroo65/maarry.php?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRYADIA TNT الرياضية
+https://cdnet.alwaysdata.net/maroo65/maarrytnt.ph
